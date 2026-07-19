@@ -33,6 +33,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
