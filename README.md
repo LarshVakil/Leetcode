@@ -53,6 +53,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3110-score-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
