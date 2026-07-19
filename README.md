@@ -23,15 +23,3 @@ Rather than a single massive list, my solutions are organized into individual fo
 
 ## 🔗 Connect
 *   **LeetCode Profile:** [leetcode.com/LarshVakil](https://leetcode.com/LarshVakil)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3925-concatenate-array-with-reverse](https://github.com/LarshVakil/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3925-concatenate-array-with-reverse](https://github.com/LarshVakil/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
-<!---LeetCode Topics End-->
