@@ -29,6 +29,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -48,4 +49,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 <!---LeetCode Topics End-->
