@@ -42,6 +42,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
@@ -65,4 +66,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LarshVakil/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 <!---LeetCode Topics End-->
