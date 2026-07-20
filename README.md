@@ -62,6 +62,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -85,4 +86,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 <!---LeetCode Topics End-->
