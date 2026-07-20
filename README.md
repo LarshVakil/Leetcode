@@ -29,6 +29,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -41,6 +42,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
