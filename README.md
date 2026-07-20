@@ -37,6 +37,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [2769-find-the-maximum-achievable-number](https://github.com/LarshVakil/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LarshVakil/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/LarshVakil/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
