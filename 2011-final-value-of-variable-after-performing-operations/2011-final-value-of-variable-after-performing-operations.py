@@ -1,7 +1,7 @@
 class Solution:
     def finalValueAfterOperations(self, operations: List[str]) -> int:
         X = 0
-        #Remote type question 2 buttons
+        #Remote type question 4 buttons
         hash = {'--X' : -1 , 'X--': -1 , 'X++': 1 ,'++X' : 1 }
 
         for i in range(len(operations)):
