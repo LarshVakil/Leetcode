@@ -47,6 +47,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2942-find-words-containing-character](https://github.com/LarshVakil/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -84,6 +85,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
