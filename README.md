@@ -68,6 +68,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/LarshVakil/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
