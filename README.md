@@ -56,6 +56,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2942-find-words-containing-character](https://github.com/LarshVakil/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LarshVakil/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -117,4 +118,9 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
