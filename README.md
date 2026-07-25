@@ -30,6 +30,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -37,6 +38,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/LarshVakil/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -51,6 +53,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -127,9 +130,18 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
