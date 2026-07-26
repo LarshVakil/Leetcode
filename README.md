@@ -78,6 +78,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/LarshVakil/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/LarshVakil/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -107,6 +108,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/LarshVakil/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Greedy
