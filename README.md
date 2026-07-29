@@ -57,6 +57,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -76,6 +77,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
