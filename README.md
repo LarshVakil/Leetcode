@@ -35,6 +35,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LarshVakil/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -76,6 +77,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
@@ -157,6 +159,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
