@@ -61,6 +61,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/LarshVakil/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/LarshVakil/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -171,6 +172,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/LarshVakil/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
