@@ -46,6 +46,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/LarshVakil/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -67,6 +68,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/LarshVakil/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/LarshVakil/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
