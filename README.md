@@ -99,6 +99,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3708-longest-fibonacci-subarray](https://github.com/LarshVakil/Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
