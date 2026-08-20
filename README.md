@@ -66,6 +66,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3345-smallest-divisible-digit-product-i](https://github.com/LarshVakil/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3516-find-closest-person](https://github.com/LarshVakil/Leetcode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LarshVakil/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
@@ -229,6 +230,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LarshVakil/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LarshVakil/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
