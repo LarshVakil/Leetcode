@@ -34,6 +34,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LarshVakil/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -87,6 +88,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -121,6 +123,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0125-valid-palindrome](https://github.com/LarshVakil/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/LarshVakil/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -180,6 +183,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sorting
@@ -209,6 +213,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
