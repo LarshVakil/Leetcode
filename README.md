@@ -53,6 +53,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -213,6 +214,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
