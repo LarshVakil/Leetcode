@@ -64,6 +64,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LarshVakil/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/LarshVakil/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LarshVakil/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3099-harshad-number](https://github.com/LarshVakil/Leetcode/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LarshVakil/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LarshVakil/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LarshVakil/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
