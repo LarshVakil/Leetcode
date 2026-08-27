@@ -35,6 +35,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LarshVakil/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -101,6 +102,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2942-find-words-containing-character](https://github.com/LarshVakil/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LarshVakil/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -186,6 +188,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
