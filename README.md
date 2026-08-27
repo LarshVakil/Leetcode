@@ -54,6 +54,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -88,6 +89,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
