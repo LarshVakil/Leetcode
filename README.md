@@ -56,6 +56,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
+| [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -92,6 +93,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -292,4 +294,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/LarshVakil/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->
