@@ -102,6 +102,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LarshVakil/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LarshVakil/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -181,6 +182,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LarshVakil/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LarshVakil/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Brainteaser
