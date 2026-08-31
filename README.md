@@ -1,6 +1,6 @@
 # 🧑‍💻 LeetCode Solutions 
 
-Welcome to my LeetCode portfolio! This repo contains my algorithmic problem solutions. 
+Welcome to my LeetCode portfolio! This repository contains my algorithmic problem solutions. 
 
 > **Note:** This repository was previously synced with LeetSync and is now maintained automatically via [LeetHub](https://github.com/QasimWani/LeetHub). 
 
