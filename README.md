@@ -106,6 +106,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LarshVakil/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/LarshVakil/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2942-find-words-containing-character](https://github.com/LarshVakil/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
