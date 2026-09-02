@@ -77,6 +77,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LarshVakil/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/LarshVakil/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3708-longest-fibonacci-subarray](https://github.com/LarshVakil/Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 | [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/LarshVakil/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
