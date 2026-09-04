@@ -92,6 +92,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/LarshVakil/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/LarshVakil/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
