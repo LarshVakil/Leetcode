@@ -1,8 +1,8 @@
 class Solution:
     def sumOfMultiples(self, n: int) -> int:
-        sum = 0
-        sett = set(range(1,n+1))
-        for i in sett:
-            if i%3==0 or i%5==0 or i%7==0:
-                sum += i 
-        return sum
+        def sumdivby(k):
+            x = n//k
+            return k*x*(x+1)//2
+        
+        return( sumdivby(3) + sumdivby(5) + sumdivby(7) - sumdivby(15) - sumdivby(21) - sumdivby(35)+ sumdivby(105))        
+         
