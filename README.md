@@ -82,6 +82,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3875-construct-uniform-parity-array-i](https://github.com/LarshVakil/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/LarshVakil/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/LarshVakil/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/LarshVakil/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3959-check-good-integer](https://github.com/LarshVakil/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
