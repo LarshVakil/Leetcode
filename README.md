@@ -60,6 +60,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/LarshVakil/Leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/LarshVakil/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2235-add-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
