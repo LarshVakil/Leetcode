@@ -66,6 +66,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/LarshVakil/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/LarshVakil/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LarshVakil/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/LarshVakil/Leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/LarshVakil/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LarshVakil/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -113,6 +114,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LarshVakil/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LarshVakil/Leetcode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LarshVakil/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/LarshVakil/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
