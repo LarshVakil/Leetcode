@@ -62,6 +62,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/LarshVakil/Leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/LarshVakil/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2469-convert-the-temperature](https://github.com/LarshVakil/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -108,6 +109,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/LarshVakil/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -249,6 +251,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +273,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LarshVakil/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
@@ -319,4 +323,12 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
