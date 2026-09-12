@@ -105,6 +105,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/LarshVakil/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/LarshVakil/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -210,6 +211,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/LarshVakil/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
