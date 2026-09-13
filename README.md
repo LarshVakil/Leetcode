@@ -150,6 +150,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0125-valid-palindrome](https://github.com/LarshVakil/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/LarshVakil/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LarshVakil/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/LarshVakil/Leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -199,6 +200,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LarshVakil/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LarshVakil/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -219,6 +221,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/LarshVakil/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
