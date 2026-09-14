@@ -84,6 +84,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/LarshVakil/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/LarshVakil/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
+| [3895-count-digit-appearances](https://github.com/LarshVakil/Leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/LarshVakil/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/LarshVakil/Leetcode/tree/main/3959-check-good-integer/) | Easy |
 ## Array
@@ -133,6 +134,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3731-find-missing-elements](https://github.com/LarshVakil/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/LarshVakil/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/LarshVakil/Leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/LarshVakil/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
