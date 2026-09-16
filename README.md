@@ -33,6 +33,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LarshVakil/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LarshVakil/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -106,6 +107,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LarshVakil/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LarshVakil/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LarshVakil/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -205,6 +207,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LarshVakil/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/LarshVakil/Leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LarshVakil/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LarshVakil/Leetcode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/LarshVakil/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
