@@ -126,6 +126,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/LarshVakil/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/LarshVakil/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/LarshVakil/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LarshVakil/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/LarshVakil/Leetcode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2942-find-words-containing-character](https://github.com/LarshVakil/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -203,6 +204,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/LarshVakil/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LarshVakil/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LarshVakil/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/LarshVakil/Leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LarshVakil/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -259,6 +262,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/LarshVakil/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/LarshVakil/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
