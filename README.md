@@ -169,6 +169,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LarshVakil/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/LarshVakil/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -191,6 +192,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1929-concatenation-of-array](https://github.com/LarshVakil/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/LarshVakil/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LarshVakil/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/LarshVakil/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/LarshVakil/Leetcode/tree/main/3894-traffic-signal-color/) | Easy |
