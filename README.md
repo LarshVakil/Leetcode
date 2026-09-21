@@ -41,6 +41,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LarshVakil/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LarshVakil/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/LarshVakil/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LarshVakil/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/LarshVakil/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -169,6 +170,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LarshVakil/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/LarshVakil/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/LarshVakil/Leetcode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/LarshVakil/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/LarshVakil/Leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/LarshVakil/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
