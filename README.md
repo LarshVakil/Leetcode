@@ -84,6 +84,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LarshVakil/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LarshVakil/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3516-find-closest-person](https://github.com/LarshVakil/Leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LarshVakil/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LarshVakil/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/LarshVakil/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -138,6 +139,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/LarshVakil/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/LarshVakil/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/LarshVakil/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LarshVakil/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/LarshVakil/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/LarshVakil/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3708-longest-fibonacci-subarray](https://github.com/LarshVakil/Leetcode/tree/main/3708-longest-fibonacci-subarray/) | Medium |
