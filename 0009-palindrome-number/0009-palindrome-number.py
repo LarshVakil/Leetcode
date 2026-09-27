@@ -3,5 +3,18 @@ class Solution:
       
         if x < 0:
            return False
+        
+        t = str(x)
+
+        l , r = 0 , len(t) - 1 
+
+        while l < r :
+            if t[l] != t[r]:
+                return False
+            else:
+                l += 1 
+                r -= 1
+        
+        return True 
     
-        return str(x) == str(x)[::-1]
+        
