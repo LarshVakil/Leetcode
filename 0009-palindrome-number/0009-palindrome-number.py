@@ -4,17 +4,19 @@ class Solution:
         if x < 0:
            return False
         
-        t = str(x)
-
-        l , r = 0 , len(t) - 1 
-
-        while l < r :
-            if t[l] != t[r]:
-                return False
-            else:
-                l += 1 
-                r -= 1
+        if x == 0 :
+            return True
         
-        return True 
-    
+        if x%10 == 0 :
+            return False
+        
+        rev = 0 
+        while x > rev :
+            rev = rev*10 + x%10 
+            x = x//10 
+        
+        if x == rev or x == rev//10 :
+            return True 
+        else:
+            return False 
         
