@@ -33,6 +33,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LarshVakil/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LarshVakil/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -62,6 +63,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1323-maximum-69-number](https://github.com/LarshVakil/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -370,4 +372,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
