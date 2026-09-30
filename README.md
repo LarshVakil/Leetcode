@@ -62,6 +62,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/LarshVakil/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
