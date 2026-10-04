@@ -59,6 +59,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/LarshVakil/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -112,6 +113,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LarshVakil/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -197,6 +199,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/LarshVakil/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LarshVakil/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Simulation
@@ -316,6 +319,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LarshVakil/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -381,4 +385,16 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
