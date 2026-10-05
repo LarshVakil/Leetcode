@@ -59,6 +59,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/LarshVakil/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
