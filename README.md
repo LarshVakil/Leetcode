@@ -66,6 +66,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/LarshVakil/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/LarshVakil/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LarshVakil/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -121,6 +122,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0283-move-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/LarshVakil/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/LarshVakil/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/LarshVakil/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/LarshVakil/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -378,6 +380,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/LarshVakil/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Backtracking
@@ -407,4 +410,8 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/LarshVakil/Leetcode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
