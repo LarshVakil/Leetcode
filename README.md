@@ -30,6 +30,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/LarshVakil/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
@@ -59,6 +60,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/LarshVakil/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -115,6 +117,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0118-pascals-triangle](https://github.com/LarshVakil/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LarshVakil/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -380,6 +383,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/LarshVakil/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -414,4 +418,12 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
