@@ -63,6 +63,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
+| [0223-rectangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -384,6 +385,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0223-rectangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/LarshVakil/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/LarshVakil/Leetcode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
