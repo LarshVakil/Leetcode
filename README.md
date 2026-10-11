@@ -304,6 +304,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0191-number-of-1-bits](https://github.com/LarshVakil/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -339,6 +340,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LarshVakil/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/LarshVakil/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/LarshVakil/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
