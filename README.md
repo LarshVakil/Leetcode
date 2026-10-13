@@ -67,6 +67,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/LarshVakil/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
@@ -309,6 +310,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0191-number-of-1-bits](https://github.com/LarshVakil/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LarshVakil/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/LarshVakil/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
