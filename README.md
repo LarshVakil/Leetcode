@@ -60,6 +60,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0066-plus-one](https://github.com/LarshVakil/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/LarshVakil/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/LarshVakil/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/LarshVakil/Leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0172-factorial-trailing-zeroes](https://github.com/LarshVakil/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
@@ -306,6 +307,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/LarshVakil/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/LarshVakil/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/LarshVakil/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/LarshVakil/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -398,6 +400,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/LarshVakil/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/LarshVakil/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
