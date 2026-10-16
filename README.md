@@ -67,6 +67,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0204-count-primes](https://github.com/LarshVakil/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0223-rectangle-area](https://github.com/LarshVakil/Leetcode/tree/main/0223-rectangle-area/) | Medium |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/LarshVakil/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0263-ugly-number](https://github.com/LarshVakil/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/LarshVakil/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/LarshVakil/Leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -328,6 +329,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/LarshVakil/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/LarshVakil/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0233-number-of-digit-one](https://github.com/LarshVakil/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -384,6 +386,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [0118-pascals-triangle](https://github.com/LarshVakil/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LarshVakil/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/LarshVakil/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0233-number-of-digit-one](https://github.com/LarshVakil/Leetcode/tree/main/0233-number-of-digit-one/) | Hard |
 | [0509-fibonacci-number](https://github.com/LarshVakil/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LarshVakil/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Memoization
