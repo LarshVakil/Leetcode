@@ -140,6 +140,7 @@ Rather than a single massive list, my solutions are organized into individual fo
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/LarshVakil/Leetcode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LarshVakil/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LarshVakil/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1470-shuffle-the-array](https://github.com/LarshVakil/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/LarshVakil/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LarshVakil/Leetcode/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/LarshVakil/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
